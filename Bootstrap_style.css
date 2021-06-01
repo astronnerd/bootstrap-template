@@ -1,0 +1,23 @@
+/*nav {
+	margin-bottom: 1.5px;
+}*/
+
+* {
+	transition: all 0.7s;
+}
+
+#Test {
+	margin-left: 10px;
+	margin-bottom: 20px
+}
+
+#carouselExampleIndicators {
+	max-width: 900px;
+	max-height: 900px;
+	margin-left: 20px;
+}
+
+img:hover {
+	transform: scale(1.085);
+	transition: all 1s;
+}
